@@ -63,6 +63,7 @@ The following tools were used in this project:
 - [TypeScript](https://www.typescriptlang.org/)
 - [Scss](https://www.typescriptlang.org/)
 - [Date-fns](https://www.typescriptlang.org/)
+- [JSON Server](https://github.com/typicode/json-server)
 - [Yarn](https://pt-br.reactjs.org/)
 
 ## :white_check_mark: Requirements ##
