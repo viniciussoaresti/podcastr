@@ -52,7 +52,12 @@ Describe your project
 
 :heavy_check_mark: Feature 1;\
 :heavy_check_mark: Feature 2;\
-:heavy_check_mark: Feature 3;
+
+My additions:
+
+:heavy_check_mark: Next.js' prefetch;
+:heavy_check_mark: Dark mode;
+:heavy_check_mark: Save last podcast with the exact stop time;
 
 ## :rocket: Technologies ##
 
