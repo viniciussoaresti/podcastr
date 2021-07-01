@@ -64,13 +64,14 @@ My additions:
 The following tools were used in this project:
 
 - [React](https://pt-br.reactjs.org/)
-- [Next.js](https://pt-br.reactjs.org/)
+- [Next.js](https://nextjs.org/)
 - [TypeScript](https://www.typescriptlang.org/)
-- [Scss](https://www.typescriptlang.org/)
-- [Date-fns](https://www.typescriptlang.org/)
+- [Scss](https://sass-lang.com/)
+- [Date-fns](https://date-fns.org/)
 - [JSON Server](https://github.com/typicode/json-server)
 - [Axios](https://axios-http.com/)
-- [Yarn](https://pt-br.reactjs.org/)
+- [Yarn](https://yarnpkg.com/)
+- [RC Slider](https://slider-react-component.vercel.app/)
 
 ## :white_check_mark: Requirements ##
 
