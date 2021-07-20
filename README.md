@@ -54,6 +54,7 @@ Project developed on Rocketseat's NLW #5.
 
 My additions:
 
+❌ CI-CD with GH Actions and Netlify;\
 ❌ Local-storage state-saved dark mode [Omni](https://github.com/getomni/omni);\
 ❌ Save last podcast with the exact stop time;\
 ❌ Responsive Layout;\
