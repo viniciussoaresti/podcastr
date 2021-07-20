@@ -46,18 +46,19 @@
 
 ## :dart: About ##
 
-Describe your project
+Project developed on Rocketseat's NLW #5.
 
 ## :sparkles: Features ##
 
-:heavy_check_mark: Feature 1;\
-:heavy_check_mark: Feature 2;\
+:heavy_check_mark: Full-featured player;
 
 My additions:
 
-:heavy_check_mark: Next.js' prefetch;
-:heavy_check_mark: Dark mode;
-:heavy_check_mark: Save last podcast with the exact stop time;
+❌ Local-storage state-saved dark mode [Omni](https://github.com/getomni/omni);\
+❌ Save last podcast with the exact stop time;\
+❌ Responsive Layout;\
+❌ PWA (next-pwa);\
+❌ Electron version;
 
 ## :rocket: Technologies ##
 
