@@ -3,7 +3,7 @@
 
   &#xa0;
 
-  <!-- <a href="https://podcastr.netlify.app">👉Live Demo👈</a> -->
+<a href="https://viniciussoaresti-podcastr.vercel.app/">👉Live Demo👈</a>
 </div>
 
 <h1 align="center">Podcastr</h1>
