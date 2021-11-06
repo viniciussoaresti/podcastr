@@ -24,13 +24,11 @@
   <!-- <img alt="Github stars" src="https://img.shields.io/github/stars/viniciussoaresti/podcastr?color=56BEB8" /> -->
 </p>
 
-<!-- Status -->
-
-<!-- <h4 align="center"> 
-	🚧  Podcastr 🚀 Under construction...  🚧
+<h4 align="center"> 
+	🚧  Implementing new functionalities...  🚧
 </h4> 
 
-<hr> -->
+<hr> 
 
 <p align="center">
   <a href="#dart-about">About</a> &#xa0; | &#xa0; 
